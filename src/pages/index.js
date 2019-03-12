@@ -11,6 +11,7 @@ const IndexPage = () => (
     <h1>Hi Savepong</h1>
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
+    <p>We've deploy this site with now, netlify and github page.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
